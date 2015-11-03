@@ -1,4 +1,4 @@
-//Este programa es un ejemplo que compila pero tiene un fallo al usar una variable sin valor asignado
+//Este programa hace una serie de operaciones con 3 variables
 
 #include <iostream>
 

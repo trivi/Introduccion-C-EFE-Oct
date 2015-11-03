@@ -1,4 +1,4 @@
-//Este programa es un ejemplo que compila pero tiene un fallo de desbordamiento de búfer
+//Este programa toma nuestro nombre por teclado y nos saluda por pantalla
 
 #include <iostream>
 

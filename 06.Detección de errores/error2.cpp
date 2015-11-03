@@ -1,4 +1,4 @@
-//Este programa es un ejemplo que compila pero tiene un fallo al permitir dividir en cero
+//Este programa divide un número entre otro y nos devuelve el resultado
 
 #include <iostream>
 
